@@ -394,7 +394,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
+    },
+    {
+      "id": "ca934463-fb4e-48d3-80bd-e56a928cfe82",
+      "data_chegada": "2026-09-08",
+      "awb": "96516243",
+      "telefone_remetente": "1197716-1246",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "Aguardando",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-08",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 14:17:58",
+      "atualizado_em": "2026-09-08 14:17:58",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 14:17:58",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-08 14:17:57"
+  "ultima_atualizacao": "2026-09-08 14:17:58"
 }
