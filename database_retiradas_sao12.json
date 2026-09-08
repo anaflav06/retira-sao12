@@ -509,7 +509,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
+    },
+    {
+      "id": "009844ea-7d61-4f80-ab4b-81b7d9905cca",
+      "data_chegada": "2026-09-08",
+      "awb": "92434580",
+      "telefone_remetente": "1198680-5154",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "",
+      "observacao": "Aguardando",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-08",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 14:25:54",
+      "atualizado_em": "2026-09-08 14:25:54",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 14:25:54",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-08 14:25:53"
+  "ultima_atualizacao": "2026-09-08 14:25:54"
 }
