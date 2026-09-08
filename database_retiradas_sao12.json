@@ -491,20 +491,25 @@
       "email_base_origem": "",
       "responsavel": "RENATA",
       "observacao": "vai retirar hoje",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-09-08",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-08 14:23:35",
-      "atualizado_em": "2026-09-08 14:23:35",
+      "atualizado_em": "2026-09-08 14:23:44",
       "historico": [
         {
           "data_hora": "2026-09-08 14:23:35",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-08 14:23:44",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-08 14:23:43"
+  "ultima_atualizacao": "2026-09-08 14:23:44"
 }
