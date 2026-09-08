@@ -577,7 +577,7 @@ if st.session_state.filtro_card:
 st.subheader("Acompanhamento")
 st.caption(
     "Edite diretamente **Status**, **Responsável**, **Observação** e, quando houver, "
-    "**Prev. retirada**. As alterações são salvas automaticamente."
+    "**Prev. retirada**. Depois clique em **💾 SALVAR ALTERAÇÕES**."
 )
 
 busca = st.text_input("🔎 Buscar AWB", placeholder="Digite uma AWB...").strip()
@@ -748,86 +748,128 @@ else:
         reload_data=False,
     )
 
+    # IMPORTANTE:
+    # O AgGrid mantém as alterações no navegador. Para garantir persistência,
+    # esta versão possui um botão explícito que grava TODA a tabela no banco.
     edited = pd.DataFrame(grid_response["data"])
 
-    changed_any = False
-    pending_final = None
+    st.caption("Após editar a tabela, clique em **💾 SALVAR ALTERAÇÕES** para gravar permanentemente.")
 
-    by_id = {str(r["id"]): r for r in visiveis}
+    if st.button(
+        "💾 SALVAR ALTERAÇÕES",
+        type="primary",
+        use_container_width=True,
+        key="salvar_tabela"
+    ):
+        changed_any = False
+        erros = []
+        pending_final = None
+        by_id = {str(r["id"]): r for r in visiveis}
 
-    for _, row in edited.iterrows():
-        rid = str(row.get("_id", ""))
-        reg = by_id.get(rid)
-        if not reg:
-            continue
+        for _, row in edited.iterrows():
+            rid = str(row.get("_id", ""))
+            reg = by_id.get(rid)
+            if not reg:
+                continue
 
-        new_status = str(row.get("Status", "") or "").strip()
-        new_resp = str(row.get("Responsável", "") or "").strip()
-        new_obs = str(row.get("Observação", "") or "").strip()
-        new_prev = str(row.get("Prev. retirada", "") or "").strip()
+            new_status = str(row.get("Status", "") or "").strip()
+            new_resp = str(row.get("Responsável", "") or "").strip()
+            new_obs = str(row.get("Observação", "") or "").strip()
+            new_prev = str(row.get("Prev. retirada", "") or "").strip()
 
-        old_status = str(reg.get("status", "") or "")
-        old_resp = str(reg.get("responsavel", "") or "")
-        old_obs = str(reg.get("observacao", "") or "")
-        old_prev = br_date(reg.get("data_prevista_retirada"))
+            old_status = str(reg.get("status", "") or "")
+            old_resp = str(reg.get("responsavel", "") or "")
+            old_obs = str(reg.get("observacao", "") or "")
+            old_prev_iso = str(reg.get("data_prevista_retirada", "") or "")
+            old_prev_br = br_date(old_prev_iso)
 
-        # Encerramento exige confirmação
-        if new_status in STATUS_FINAL and old_status not in STATUS_FINAL:
-            pending_final = {
-                "id": rid,
-                "awb": reg.get("awb", ""),
-                "novo_status": new_status,
-                "status_anterior": old_status,
-                "responsavel": new_resp,
-                "observacao": new_obs,
-                "prev_retirada": new_prev,
-            }
-            continue
+            # Se encerrar, guarda para confirmação antes de retirar do acompanhamento.
+            if new_status in STATUS_FINAL and old_status not in STATUS_FINAL:
+                pending_final = {
+                    "id": rid,
+                    "awb": reg.get("awb", ""),
+                    "novo_status": new_status,
+                    "status_anterior": old_status,
+                    "responsavel": new_resp,
+                    "observacao": new_obs,
+                    "prev_retirada": new_prev,
+                }
+                continue
 
-        details = []
+            details = []
 
-        if new_status != old_status:
-            reg["status"] = new_status
-            reg["data_ultimo_status"] = today_iso()
-            details.append(f"Status: {old_status} → {new_status}")
+            if new_status != old_status:
+                reg["status"] = new_status
+                reg["data_ultimo_status"] = today_iso()
+                details.append(f"Status: {old_status} → {new_status}")
 
-            if new_status != "RETIRADA PROGRAMADA":
-                reg["data_prevista_retirada"] = ""
+                if new_status != "RETIRADA PROGRAMADA":
+                    reg["data_prevista_retirada"] = ""
 
-        if new_resp != old_resp:
-            reg["responsavel"] = new_resp
-            details.append(f"Responsável: {old_resp or '-'} → {new_resp or '-'}")
+            if new_resp != old_resp:
+                reg["responsavel"] = new_resp
+                details.append(f"Responsável: {old_resp or '-'} → {new_resp or '-'}")
 
-        if new_obs != old_obs:
-            reg["observacao"] = new_obs
-            details.append(f"Observação anterior: {old_obs or '-'} | Nova: {new_obs or '-'}")
-
-        # Previsão só faz sentido quando o status é RETIRADA PROGRAMADA
-        if new_status == "RETIRADA PROGRAMADA":
-            new_prev_iso = ""
-            if new_prev:
-                try:
-                    new_prev_iso = datetime.strptime(new_prev, "%d/%m/%Y").date().isoformat()
-                except Exception:
-                    new_prev_iso = reg.get("data_prevista_retirada", "")
-
-            if new_prev_iso != reg.get("data_prevista_retirada", ""):
-                reg["data_prevista_retirada"] = new_prev_iso
+            if new_obs != old_obs:
+                reg["observacao"] = new_obs
                 details.append(
-                    f"Previsão retirada: {old_prev or '-'} → {br_date(new_prev_iso) or '-'}"
+                    f"Observação anterior: {old_obs or '-'} | Nova: {new_obs or '-'}"
                 )
 
-        if details:
-            reg["atualizado_em"] = now_iso()
-            history_add(reg, "Alteração automática na tabela", "; ".join(details))
-            changed_any = True
+            # Previsão de retirada somente quando o status for RETIRADA PROGRAMADA.
+            if new_status == "RETIRADA PROGRAMADA":
+                new_prev_iso = ""
+                if new_prev:
+                    try:
+                        new_prev_iso = datetime.strptime(
+                            new_prev, "%d/%m/%Y"
+                        ).date().isoformat()
+                    except Exception:
+                        erros.append(
+                            f"AWB {reg.get('awb','')}: data de previsão inválida. Use DD/MM/AAAA."
+                        )
+                        new_prev_iso = old_prev_iso
 
-    if changed_any:
-        save_db(db)
-        st.session_state["toast_msg"] = "Alterações salvas automaticamente."
+                if new_prev_iso != old_prev_iso:
+                    reg["data_prevista_retirada"] = new_prev_iso
+                    details.append(
+                        f"Previsão retirada: {old_prev_br or '-'} → "
+                        f"{br_date(new_prev_iso) or '-'}"
+                    )
 
-    if pending_final:
-        st.session_state.pending_final = pending_final
+            if details:
+                reg["atualizado_em"] = now_iso()
+                history_add(
+                    reg,
+                    "Alteração salva na tabela",
+                    "; ".join(details)
+                )
+                changed_any = True
+
+        # Salva o banco UMA VEZ após processar todas as linhas.
+        if changed_any:
+            ok, msg = save_db(db)
+            if ok:
+                st.success("✅ ALTERAÇÕES SALVAS COM SUCESSO.")
+            else:
+                st.error(
+                    "⚠️ As alterações foram salvas apenas localmente. "
+                    "O banco permanente não foi atualizado."
+                )
+                st.warning(msg)
+        elif not pending_final and not erros:
+            st.info("Nenhuma alteração nova para salvar.")
+
+        for erro in erros:
+            st.warning(erro)
+
+        if pending_final:
+            st.session_state.pending_final = pending_final
+            # Salva outras mudanças antes da confirmação do encerramento.
+            if changed_any:
+                save_db(db)
+            st.rerun()
+
 
 # ---------------- CONFIRMAÇÃO FINAL ----------------
 
@@ -858,9 +900,12 @@ if st.session_state.pending_final:
                 "Carga encerrada",
                 f"Status: {old_status} → {p['novo_status']}",
             )
-            save_db(db)
+            ok, msg = save_db(db)
+            if not ok:
+                st.warning(msg)
 
         st.session_state.pending_final = None
+        st.session_state["toast_msg"] = "Carga encerrada e salva."
         st.rerun()
 
     if c2.button("CANCELAR", use_container_width=True):
