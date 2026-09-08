@@ -406,17 +406,22 @@
       "email_base_origem": "",
       "responsavel": "RENATA",
       "observacao": "Aguardando",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-09-08",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-08 14:17:58",
-      "atualizado_em": "2026-09-08 14:17:58",
+      "atualizado_em": "2026-09-08 14:19:04",
       "historico": [
         {
           "data_hora": "2026-09-08 14:17:58",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-08 14:19:04",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     },
@@ -431,20 +436,25 @@
       "email_base_origem": "",
       "responsavel": "RENATA",
       "observacao": "Aguardando",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-09-08",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-08 14:18:49",
-      "atualizado_em": "2026-09-08 14:18:49",
+      "atualizado_em": "2026-09-08 14:19:04",
       "historico": [
         {
           "data_hora": "2026-09-08 14:18:49",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-08 14:19:04",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-08 14:19:03"
+  "ultima_atualizacao": "2026-09-08 14:19:04"
 }
