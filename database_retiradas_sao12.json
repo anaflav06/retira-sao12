@@ -1,3 +1,335 @@
 {
-  "registros": []
+  "registros": [
+    {
+      "id": "4e585288-8be2-4a14-90de-c339d55b5c65",
+      "data_chegada": "2026-08-18",
+      "awb": "74547900",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "VAI PROVIDENCIAR A AUTORIZAÇÃO DE RETIRADA",
+      "status": "AGUARDANDO AUTORIZAÇÃO",
+      "data_ultimo_status": "2026-08-18",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:46",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-08 13:45:46",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Responsável: PAULO HENRIQUE → RENATA"
+        }
+      ]
+    },
+    {
+      "id": "a26d10cf-3348-4b67-8b7e-564912a2b977",
+      "data_chegada": "2026-08-26",
+      "awb": "68590082",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-08-26",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    },
+    {
+      "id": "5fae4f46-05d4-4735-a8aa-8917c8cfb331",
+      "data_chegada": "2026-08-27",
+      "awb": "69003513",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "AGUARDANDO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "data_ultimo_status": "2026-08-27",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    },
+    {
+      "id": "49537965-a2e7-4876-8bac-79d5acc20c8d",
+      "data_chegada": "2026-08-31",
+      "awb": "90776770",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "AGUARDANDO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "data_ultimo_status": "2026-08-31",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    },
+    {
+      "id": "d03938d0-b40a-4dc5-beeb-24f9547e2ec5",
+      "data_chegada": "2026-08-31",
+      "awb": "78383723",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "AGUARDANDO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "data_ultimo_status": "2026-08-31",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    },
+    {
+      "id": "500bde68-5ced-4143-b9a8-a82e9fb5c08b",
+      "data_chegada": "2026-08-31",
+      "awb": "90776394",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "CLEBER",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-08-31",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    },
+    {
+      "id": "ca1515b6-5984-4d12-b5c0-815f64a36180",
+      "data_chegada": "2026-09-02",
+      "awb": "89431064",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "AGUARDANDO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "data_ultimo_status": "2026-09-02",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    },
+    {
+      "id": "e825b531-e658-4c88-9c1e-8fa1043ea0f1",
+      "data_chegada": "2026-09-02",
+      "awb": "38794011",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "AGUARDANDO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "data_ultimo_status": "2026-09-02",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    },
+    {
+      "id": "5f8ce371-fedd-43e5-b67e-22527433fd40",
+      "data_chegada": "2026-09-03",
+      "awb": "89405341",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "AGUARDANDO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "data_ultimo_status": "2026-09-03",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    },
+    {
+      "id": "f7984a7d-e834-4570-b7a8-c10b6e833542",
+      "data_chegada": "2026-09-03",
+      "awb": "90874243",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "AGUARDANDO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "data_ultimo_status": "2026-09-03",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    },
+    {
+      "id": "ec92964f-6e5e-4f6c-9ce6-c33ae401c3d8",
+      "data_chegada": "2026-09-03",
+      "awb": "54824980",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "AGUARDANDO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "data_ultimo_status": "2026-09-03",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    },
+    {
+      "id": "1e965150-0a6a-4bb8-a18d-0c7d34de75e6",
+      "data_chegada": "2026-09-04",
+      "awb": "90914751",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "AGUARDANDO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "data_ultimo_status": "2026-09-04",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    },
+    {
+      "id": "1f3057fe-6bbd-4872-a4d8-fd9e72f1a4a4",
+      "data_chegada": "2026-09-04",
+      "awb": "89416386",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "AGUARDANDO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "data_ultimo_status": "2026-09-04",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-08 13:45:36",
+      "historico": [
+        {
+          "data_hora": "2026-09-08 13:45:36",
+          "acao": "Carga trazida da planilha base",
+          "detalhes": ""
+        }
+      ]
+    }
+  ],
+  "ultima_atualizacao": "2026-09-08 13:55:10"
 }
