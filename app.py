@@ -326,6 +326,17 @@ def export_excel(registros):
     return output.getvalue()
 
 
+
+def find_reg(rid):
+    return next(
+        (
+            r for r in st.session_state.db.get("registros", [])
+            if str(r.get("id")) == str(rid)
+        ),
+        None,
+    )
+
+
 # ---------------- INICIALIZAÇÃO ----------------
 
 if "db" not in st.session_state:
@@ -886,7 +897,9 @@ if st.session_state.pending_final:
     if c1.button("CONFIRMAR ENCERRAMENTO", type="primary", use_container_width=True):
         reg = find_reg(p["id"])
 
-        if reg:
+        if not reg:
+            st.error("Não foi possível localizar esta AWB no banco de dados.")
+        else:
             old_status = reg.get("status", "")
             reg["status"] = p["novo_status"]
             reg["responsavel"] = p.get("responsavel", reg.get("responsavel", ""))
@@ -900,13 +913,21 @@ if st.session_state.pending_final:
                 "Carga encerrada",
                 f"Status: {old_status} → {p['novo_status']}",
             )
-            ok, msg = save_db(db)
-            if not ok:
-                st.warning(msg)
 
-        st.session_state.pending_final = None
-        st.session_state["toast_msg"] = "Carga encerrada e salva."
-        st.rerun()
+            ok, msg = save_db(db)
+
+            if ok:
+                st.session_state.pending_final = None
+                st.session_state["toast_msg"] = (
+                    f"AWB {reg.get('awb','')} encerrada e removida do acompanhamento."
+                )
+                st.rerun()
+            else:
+                st.error(
+                    "A carga foi alterada localmente, mas não consegui salvar "
+                    "o encerramento no banco permanente."
+                )
+                st.warning(msg)
 
     if c2.button("CANCELAR", use_container_width=True):
         st.session_state.pending_final = None
