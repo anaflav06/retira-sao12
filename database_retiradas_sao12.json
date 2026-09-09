@@ -46,17 +46,22 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-08-26",
+      "status": "FINALIZADO",
+      "data_ultimo_status": "2026-09-09",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-09-09",
       "criado_em": "2026-09-08 13:45:36",
-      "atualizado_em": "2026-09-08 13:45:36",
+      "atualizado_em": "2026-09-09 13:58:27",
       "historico": [
         {
           "data_hora": "2026-09-08 13:45:36",
           "acao": "Carga trazida da planilha base",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-09 13:58:27",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: NOVO / SEM CONTATO → FINALIZADO"
         }
       ]
     },
@@ -591,5 +596,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-09 13:58:25"
+  "ultima_atualizacao": "2026-09-09 13:58:27"
 }
