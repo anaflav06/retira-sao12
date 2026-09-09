@@ -464,19 +464,24 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "RENATA",
-      "observacao": "Cliente vai retirar dia 09/09/2026",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-09-08",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "RETROU",
+      "status": "FINALIZADO",
+      "data_ultimo_status": "2026-09-09",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-09-09",
       "criado_em": "2026-09-08 14:20:59",
-      "atualizado_em": "2026-09-08 14:20:59",
+      "atualizado_em": "2026-09-09 13:51:28",
       "historico": [
         {
           "data_hora": "2026-09-08 14:20:59",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-09 13:51:28",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: NOVO / SEM CONTATO → FINALIZADO"
         }
       ]
     },
@@ -541,5 +546,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-09 13:51:27"
+  "ultima_atualizacao": "2026-09-09 13:51:28"
 }
