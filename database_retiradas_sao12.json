@@ -629,7 +629,32 @@
           "detalhes": "Status: AGUARDANDO RETORNO DO CLIENTE → FINALIZADO"
         }
       ]
+    },
+    {
+      "id": "a36e2ecc-d714-4443-aa8f-2b888dd914df",
+      "data_chegada": "2026-09-10",
+      "awb": "12878865",
+      "telefone_remetente": "84996180037",
+      "telefone_unidade_origem": "83986284008",
+      "email_remetente": "jpo.hayron@azulcargo.com.br",
+      "email_destinatario": "hayron@azulcargo.com.br",
+      "email_base_origem": "",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "Mensagem enviada para o cliente",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-10",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-10 14:23:47",
+      "atualizado_em": "2026-09-10 14:23:47",
+      "historico": [
+        {
+          "data_hora": "2026-09-10 14:23:47",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-10 14:23:46"
+  "ultima_atualizacao": "2026-09-10 14:23:47"
 }
