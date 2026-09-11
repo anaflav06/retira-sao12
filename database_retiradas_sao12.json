@@ -659,7 +659,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "79e4776d-24b8-4616-aadf-8c9af92104e2",
+      "data_chegada": "2026-09-11",
+      "awb": "57727933636",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-11",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-11 13:12:38",
+      "atualizado_em": "2026-09-11 13:12:38",
+      "historico": [
+        {
+          "data_hora": "2026-09-11 13:12:38",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-11 13:12:36"
+  "ultima_atualizacao": "2026-09-11 13:12:38"
 }
