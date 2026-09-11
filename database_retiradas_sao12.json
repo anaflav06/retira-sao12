@@ -711,20 +711,25 @@
       "email_base_origem": "",
       "responsavel": "CLEBER",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-09-11",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-11 19:47:25",
-      "atualizado_em": "2026-09-11 19:47:25",
+      "atualizado_em": "2026-09-11 19:48:23",
       "historico": [
         {
           "data_hora": "2026-09-11 19:47:25",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-11 19:48:23",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-11 19:48:21"
+  "ultima_atualizacao": "2026-09-11 19:48:23"
 }
