@@ -699,7 +699,32 @@
           "detalhes": "Observação anterior: Mensagem enviada para o cliente | Nova: retirar entre hoje 11/09  ou segunda-feira 14/09"
         }
       ]
+    },
+    {
+      "id": "09519215-5ff6-4c3b-bc34-c4e3b82384a2",
+      "data_chegada": "2026-09-11",
+      "awb": "57753940810",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "CLEBER",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-11",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-11 19:47:25",
+      "atualizado_em": "2026-09-11 19:47:25",
+      "historico": [
+        {
+          "data_hora": "2026-09-11 19:47:25",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-11 19:44:01"
+  "ultima_atualizacao": "2026-09-11 19:47:25"
 }
