@@ -670,13 +670,13 @@
       "email_destinatario": "",
       "email_base_origem": "",
       "responsavel": "CLEBER",
-      "observacao": "Mensagem enviada para o cliente",
+      "observacao": "retirar entre hoje 11/09  ou segunda-feira 14/09",
       "status": "NOVO / SEM CONTATO",
       "data_ultimo_status": "2026-09-11",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-11 13:12:38",
-      "atualizado_em": "2026-09-11 13:16:10",
+      "atualizado_em": "2026-09-11 13:19:52",
       "historico": [
         {
           "data_hora": "2026-09-11 13:12:38",
@@ -687,9 +687,14 @@
           "data_hora": "2026-09-11 13:16:10",
           "acao": "Alteração salva na tabela",
           "detalhes": "Responsável: - → CLEBER; Observação anterior: - | Nova: Mensagem enviada para o cliente"
+        },
+        {
+          "data_hora": "2026-09-11 13:19:52",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Observação anterior: Mensagem enviada para o cliente | Nova: retirar entre hoje 11/09  ou segunda-feira 14/09"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-11 13:19:51"
+  "ultima_atualizacao": "2026-09-11 13:19:52"
 }
