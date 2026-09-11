@@ -669,22 +669,27 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "",
-      "observacao": "",
+      "responsavel": "CLEBER",
+      "observacao": "Mensagem enviada para o cliente",
       "status": "NOVO / SEM CONTATO",
       "data_ultimo_status": "2026-09-11",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-11 13:12:38",
-      "atualizado_em": "2026-09-11 13:12:38",
+      "atualizado_em": "2026-09-11 13:16:10",
       "historico": [
         {
           "data_hora": "2026-09-11 13:12:38",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-11 13:16:10",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Responsável: - → CLEBER; Observação anterior: - | Nova: Mensagem enviada para o cliente"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-11 13:16:08"
+  "ultima_atualizacao": "2026-09-11 13:16:10"
 }
