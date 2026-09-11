@@ -740,13 +740,13 @@
       "email_destinatario": "",
       "email_base_origem": "",
       "responsavel": "CLEBER",
-      "observacao": "",
+      "observacao": "MERCADORIA RETIRADA PELO CLIENTE",
       "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-09-11",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-11 19:52:03",
-      "atualizado_em": "2026-09-11 19:52:35",
+      "atualizado_em": "2026-09-11 20:25:50",
       "historico": [
         {
           "data_hora": "2026-09-11 19:52:03",
@@ -757,9 +757,14 @@
           "data_hora": "2026-09-11 19:52:35",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
+        },
+        {
+          "data_hora": "2026-09-11 20:25:50",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Observação anterior: - | Nova: MERCADORIA RETIRADA PELO CLIENTE"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-11 20:25:48"
+  "ultima_atualizacao": "2026-09-11 20:25:50"
 }
