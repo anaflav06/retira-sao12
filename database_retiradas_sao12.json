@@ -719,14 +719,14 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "CLEBER",
+      "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "AGUARDANDO RETORNO DO CLIENTE",
-      "data_ultimo_status": "2026-09-11",
+      "status": "RETIRADO",
+      "data_ultimo_status": "2026-09-14",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-09-14",
       "criado_em": "2026-09-11 19:47:25",
-      "atualizado_em": "2026-09-11 19:48:23",
+      "atualizado_em": "2026-09-14 15:34:08",
       "historico": [
         {
           "data_hora": "2026-09-11 19:47:25",
@@ -737,6 +737,11 @@
           "data_hora": "2026-09-11 19:48:23",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
+        },
+        {
+          "data_hora": "2026-09-14 15:34:08",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: AGUARDANDO RETORNO DO CLIENTE → RETIRADO"
         }
       ]
     },
@@ -776,5 +781,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-14 15:34:07"
+  "ultima_atualizacao": "2026-09-14 15:34:08"
 }
