@@ -790,13 +790,13 @@
       "email_destinatario": "",
       "email_base_origem": "",
       "responsavel": "CLEBER",
-      "observacao": "AGUARFDANDO",
+      "observacao": "AGUARDANDO",
       "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-09-14",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-14 17:43:01",
-      "atualizado_em": "2026-09-14 17:44:18",
+      "atualizado_em": "2026-09-15 12:54:05",
       "historico": [
         {
           "data_hora": "2026-09-14 17:43:01",
@@ -807,6 +807,11 @@
           "data_hora": "2026-09-14 17:44:18",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
+        },
+        {
+          "data_hora": "2026-09-15 12:54:05",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Observação anterior: AGUARFDANDO | Nova: AGUARDANDO"
         }
       ]
     },
@@ -820,21 +825,26 @@
       "email_destinatario": "",
       "email_base_origem": "",
       "responsavel": "CLEBER",
-      "observacao": "",
+      "observacao": "AGUARDANDO",
       "status": "NOVO / SEM CONTATO",
       "data_ultimo_status": "2026-09-15",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-15 12:53:35",
-      "atualizado_em": "2026-09-15 12:53:35",
+      "atualizado_em": "2026-09-15 12:54:05",
       "historico": [
         {
           "data_hora": "2026-09-15 12:53:35",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-15 12:54:05",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Observação anterior: - | Nova: AGUARDANDO"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-15 12:54:03"
+  "ultima_atualizacao": "2026-09-15 12:54:05"
 }
