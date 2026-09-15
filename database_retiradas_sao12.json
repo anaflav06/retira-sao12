@@ -809,7 +809,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
+    },
+    {
+      "id": "73ddf39d-0965-48ce-8346-23d58c55ff7f",
+      "data_chegada": "2026-09-15",
+      "awb": "57753175894",
+      "telefone_remetente": "11996323959",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "CLEBER",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-15",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-15 12:53:35",
+      "atualizado_em": "2026-09-15 12:53:35",
+      "historico": [
+        {
+          "data_hora": "2026-09-15 12:53:35",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-15 12:53:34"
+  "ultima_atualizacao": "2026-09-15 12:53:35"
 }
