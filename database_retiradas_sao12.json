@@ -874,7 +874,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "90c8a639-39d7-45d8-bab8-d0b17b66ea37",
+      "data_chegada": "2026-09-17",
+      "awb": "577-31670026",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "CLEBER",
+      "observacao": "AGUARDANDO RETIRADA",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-17",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-17 12:07:32",
+      "atualizado_em": "2026-09-17 12:07:32",
+      "historico": [
+        {
+          "data_hora": "2026-09-17 12:07:32",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-17 12:07:30"
+  "ultima_atualizacao": "2026-09-17 12:07:32"
 }
