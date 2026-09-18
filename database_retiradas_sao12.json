@@ -904,7 +904,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "bf2f495d-114a-4841-9568-2a8dd4c04ada",
+      "data_chegada": "2026-09-18",
+      "awb": "54549924",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "CLEBER",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-18",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-18 12:40:09",
+      "atualizado_em": "2026-09-18 12:40:09",
+      "historico": [
+        {
+          "data_hora": "2026-09-18 12:40:09",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-18 12:40:08"
+  "ultima_atualizacao": "2026-09-18 12:40:09"
 }
