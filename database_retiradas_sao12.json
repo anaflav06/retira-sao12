@@ -970,21 +970,26 @@
       "email_destinatario": "",
       "email_base_origem": "",
       "responsavel": "CLEBER",
-      "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "observacao": "AGUARDANDO RETIRADA",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-09-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-18 12:41:38",
-      "atualizado_em": "2026-09-18 12:41:38",
+      "atualizado_em": "2026-09-18 12:41:55",
       "historico": [
         {
           "data_hora": "2026-09-18 12:41:38",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-18 12:41:55",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO; Observação anterior: - | Nova: AGUARDANDO RETIRADA"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-18 12:41:54"
+  "ultima_atualizacao": "2026-09-18 12:41:55"
 }
