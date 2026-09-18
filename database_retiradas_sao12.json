@@ -691,12 +691,12 @@
       "email_base_origem": "",
       "responsavel": "CLEBER",
       "observacao": "retirar entre hoje 11/09  ou segunda-feira 14/09",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-09-11",
+      "status": "CLIENTE AVISADO",
+      "data_ultimo_status": "2026-09-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-11 13:12:38",
-      "atualizado_em": "2026-09-11 13:19:52",
+      "atualizado_em": "2026-09-18 12:41:11",
       "historico": [
         {
           "data_hora": "2026-09-11 13:12:38",
@@ -712,6 +712,11 @@
           "data_hora": "2026-09-11 13:19:52",
           "acao": "Alteração salva na tabela",
           "detalhes": "Observação anterior: Mensagem enviada para o cliente | Nova: retirar entre hoje 11/09  ou segunda-feira 14/09"
+        },
+        {
+          "data_hora": "2026-09-18 12:41:11",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     },
@@ -761,12 +766,12 @@
       "email_base_origem": "",
       "responsavel": "CLEBER",
       "observacao": "MERCADORIA RETIRADA PELO CLIENTE",
-      "status": "AGUARDANDO RETORNO DO CLIENTE",
-      "data_ultimo_status": "2026-09-11",
+      "status": "CLIENTE AVISADO",
+      "data_ultimo_status": "2026-09-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-11 19:52:03",
-      "atualizado_em": "2026-09-11 20:25:50",
+      "atualizado_em": "2026-09-18 12:41:11",
       "historico": [
         {
           "data_hora": "2026-09-11 19:52:03",
@@ -782,6 +787,11 @@
           "data_hora": "2026-09-11 20:25:50",
           "acao": "Alteração salva na tabela",
           "detalhes": "Observação anterior: - | Nova: MERCADORIA RETIRADA PELO CLIENTE"
+        },
+        {
+          "data_hora": "2026-09-18 12:41:11",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: AGUARDANDO RETORNO DO CLIENTE → CLIENTE AVISADO"
         }
       ]
     },
@@ -796,12 +806,12 @@
       "email_base_origem": "",
       "responsavel": "CLEBER",
       "observacao": "AGUARDANDO",
-      "status": "AGUARDANDO RETORNO DO CLIENTE",
-      "data_ultimo_status": "2026-09-14",
+      "status": "CLIENTE AVISADO",
+      "data_ultimo_status": "2026-09-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-14 17:43:01",
-      "atualizado_em": "2026-09-15 12:54:05",
+      "atualizado_em": "2026-09-18 12:41:11",
       "historico": [
         {
           "data_hora": "2026-09-14 17:43:01",
@@ -817,6 +827,11 @@
           "data_hora": "2026-09-15 12:54:05",
           "acao": "Alteração salva na tabela",
           "detalhes": "Observação anterior: AGUARFDANDO | Nova: AGUARDANDO"
+        },
+        {
+          "data_hora": "2026-09-18 12:41:11",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: AGUARDANDO RETORNO DO CLIENTE → CLIENTE AVISADO"
         }
       ]
     },
@@ -865,18 +880,23 @@
       "email_destinatario": "",
       "email_base_origem": "",
       "responsavel": "CLEBER",
-      "observacao": "AGUARDANDO RETORNO",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-09-17",
+      "observacao": "AGUARDANDO RETIRADA",
+      "status": "CLIENTE AVISADO",
+      "data_ultimo_status": "2026-09-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-17 12:04:59",
-      "atualizado_em": "2026-09-17 12:04:59",
+      "atualizado_em": "2026-09-18 12:41:11",
       "historico": [
         {
           "data_hora": "2026-09-17 12:04:59",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-18 12:41:11",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO; Observação anterior: AGUARDANDO RETORNO | Nova: AGUARDANDO RETIRADA"
         }
       ]
     },
@@ -891,17 +911,22 @@
       "email_base_origem": "",
       "responsavel": "CLEBER",
       "observacao": "AGUARDANDO RETIRADA",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-09-17",
+      "status": "CLIENTE AVISADO",
+      "data_ultimo_status": "2026-09-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-17 12:07:32",
-      "atualizado_em": "2026-09-17 12:07:32",
+      "atualizado_em": "2026-09-18 12:41:11",
       "historico": [
         {
           "data_hora": "2026-09-17 12:07:32",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-18 12:41:11",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     },
@@ -915,21 +940,26 @@
       "email_destinatario": "",
       "email_base_origem": "",
       "responsavel": "CLEBER",
-      "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "observacao": "AGUARDANDO RETIRADA",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-09-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-18 12:40:09",
-      "atualizado_em": "2026-09-18 12:40:09",
+      "atualizado_em": "2026-09-18 12:41:11",
       "historico": [
         {
           "data_hora": "2026-09-18 12:40:09",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-18 12:41:11",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO; Observação anterior: - | Nova: AGUARDANDO RETIRADA"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-18 12:41:10"
+  "ultima_atualizacao": "2026-09-18 12:41:11"
 }
