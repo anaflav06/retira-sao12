@@ -1000,13 +1000,13 @@
       "email_destinatario": "",
       "email_base_origem": "",
       "responsavel": "CLEBER",
-      "observacao": "AGUARDANDO RETIRADA",
+      "observacao": "AGUARDANDO RETIRADA  21/09",
       "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-09-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-18 12:42:22",
-      "atualizado_em": "2026-09-18 12:42:38",
+      "atualizado_em": "2026-09-18 14:00:22",
       "historico": [
         {
           "data_hora": "2026-09-18 12:42:22",
@@ -1017,6 +1017,11 @@
           "data_hora": "2026-09-18 12:42:38",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO; Observação anterior: - | Nova: AGUARDANDO RETIRADA"
+        },
+        {
+          "data_hora": "2026-09-18 14:00:22",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Observação anterior: AGUARDANDO RETIRADA | Nova: AGUARDANDO RETIRADA  21/09"
         }
       ]
     },
@@ -1081,5 +1086,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-18 14:00:20"
+  "ultima_atualizacao": "2026-09-18 14:00:22"
 }
