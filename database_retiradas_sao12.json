@@ -1154,7 +1154,32 @@
           "detalhes": "Observação anterior: AGUARDANDO RETIRADAS | Nova: AGUARDANDO RETIRADA"
         }
       ]
+    },
+    {
+      "id": "84a607db-e618-48b3-8352-ba52188f3dba",
+      "data_chegada": "2026-09-22",
+      "awb": "89435242",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "CLEBER",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-22",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-22 12:25:26",
+      "atualizado_em": "2026-09-22 12:25:26",
+      "historico": [
+        {
+          "data_hora": "2026-09-22 12:25:26",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-22 12:25:25"
+  "ultima_atualizacao": "2026-09-22 12:25:26"
 }
