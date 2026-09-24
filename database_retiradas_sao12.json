@@ -1206,12 +1206,12 @@
       "email_base_origem": "",
       "responsavel": "CLEBER",
       "observacao": "nan",
-      "status": "CLIENTE AVISADO",
-      "data_ultimo_status": "2026-09-21",
+      "status": "RETIRADO",
+      "data_ultimo_status": "2026-09-24",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-09-24",
       "criado_em": "2026-09-21 20:18:41",
-      "atualizado_em": "2026-09-23 14:04:52",
+      "atualizado_em": "2026-09-24 18:09:09",
       "historico": [
         {
           "data_hora": "2026-09-21 20:18:41",
@@ -1232,6 +1232,11 @@
           "data_hora": "2026-09-23 14:04:52",
           "acao": "Alteração salva na tabela",
           "detalhes": "Observação anterior: AGUARDANDO RETIRADA | Nova: nan"
+        },
+        {
+          "data_hora": "2026-09-24 18:09:09",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: CLIENTE AVISADO → RETIRADO"
         }
       ]
     },
@@ -1386,5 +1391,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-24 18:09:07"
+  "ultima_atualizacao": "2026-09-24 18:09:09"
 }
