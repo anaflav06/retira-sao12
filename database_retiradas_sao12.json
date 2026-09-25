@@ -1296,7 +1296,7 @@
       "data_prevista_retirada": "",
       "data_finalizacao": "2026-09-25",
       "criado_em": "2026-09-23 13:02:02",
-      "atualizado_em": "2026-09-25 12:38:00",
+      "atualizado_em": "2026-09-25 12:38:02",
       "historico": [
         {
           "data_hora": "2026-09-23 13:02:02",
@@ -1317,6 +1317,11 @@
           "data_hora": "2026-09-25 12:38:00",
           "acao": "Carga encerrada",
           "detalhes": "Status: CLIENTE AVISADO → FINALIZADO"
+        },
+        {
+          "data_hora": "2026-09-25 12:38:02",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: FINALIZADO → FINALIZADO"
         }
       ]
     },
@@ -1396,5 +1401,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-25 12:38:00"
+  "ultima_atualizacao": "2026-09-25 12:38:02"
 }
