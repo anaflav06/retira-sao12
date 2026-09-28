@@ -1439,7 +1439,32 @@
           "detalhes": "Status: RETIRADO → RETIRADO"
         }
       ]
+    },
+    {
+      "id": "e69549e6-967c-4f5c-a60a-2b3fd24a05f3",
+      "data_chegada": "2026-09-28",
+      "awb": "02690814",
+      "telefone_remetente": "1128844878",
+      "telefone_unidade_origem": "1140038399",
+      "email_remetente": "ediazul@onlineapp.com.br",
+      "email_destinatario": "ediazul@onlineapp.com.br",
+      "email_base_origem": "cghfa",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "Mensagem enviada para a cliente, aguardando resposta.",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-28",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-28 11:59:17",
+      "atualizado_em": "2026-09-28 11:59:17",
+      "historico": [
+        {
+          "data_hora": "2026-09-28 11:59:17",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-28 11:59:16"
+  "ultima_atualizacao": "2026-09-28 11:59:17"
 }
