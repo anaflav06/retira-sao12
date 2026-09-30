@@ -1481,17 +1481,22 @@
       "email_base_origem": "",
       "responsavel": "RENATA",
       "observacao": "Cliente retira sexta feira 02/10/2026",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-09-30",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-30 12:34:21",
-      "atualizado_em": "2026-09-30 12:34:21",
+      "atualizado_em": "2026-09-30 12:39:26",
       "historico": [
         {
           "data_hora": "2026-09-30 12:34:21",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-30 12:39:26",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     },
@@ -1504,19 +1509,24 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "",
+      "responsavel": "RENATA",
       "observacao": "Aguardando",
-      "status": "NOVO / SEM CONTATO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-09-30",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-30 12:36:32",
-      "atualizado_em": "2026-09-30 12:36:32",
+      "atualizado_em": "2026-09-30 12:39:26",
       "historico": [
         {
           "data_hora": "2026-09-30 12:36:32",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-30 12:39:26",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE; Responsável: - → RENATA"
         }
       ]
     },
@@ -1529,22 +1539,27 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "",
+      "responsavel": "RENATA",
       "observacao": "Aguardando",
-      "status": "NOVO / SEM CONTATO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-09-30",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-30 12:39:01",
-      "atualizado_em": "2026-09-30 12:39:01",
+      "atualizado_em": "2026-09-30 12:39:26",
       "historico": [
         {
           "data_hora": "2026-09-30 12:39:01",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-30 12:39:26",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE; Responsável: - → RENATA"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-30 12:39:24"
+  "ultima_atualizacao": "2026-09-30 12:39:26"
 }
