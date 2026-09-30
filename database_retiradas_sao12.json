@@ -1574,22 +1574,27 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "",
+      "responsavel": "RENATA",
       "observacao": "RETIRA 02/10/2026",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-09-30",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-30 12:40:53",
-      "atualizado_em": "2026-09-30 12:40:53",
+      "atualizado_em": "2026-09-30 12:41:12",
       "historico": [
         {
           "data_hora": "2026-09-30 12:40:53",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-09-30 12:41:12",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO; Responsável: - → RENATA"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-30 12:41:10"
+  "ultima_atualizacao": "2026-09-30 12:41:12"
 }
