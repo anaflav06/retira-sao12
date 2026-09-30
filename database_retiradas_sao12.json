@@ -1494,7 +1494,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "95ed58c0-e153-446d-a161-4b986fe08a22",
+      "data_chegada": "2026-09-30",
+      "awb": "02725023",
+      "telefone_remetente": "1192995181",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "",
+      "observacao": "Aguardando",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-30",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-30 12:36:32",
+      "atualizado_em": "2026-09-30 12:36:32",
+      "historico": [
+        {
+          "data_hora": "2026-09-30 12:36:32",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-30 12:36:31"
+  "ultima_atualizacao": "2026-09-30 12:36:32"
 }
