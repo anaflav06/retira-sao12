@@ -1469,7 +1469,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
+    },
+    {
+      "id": "f2c41083-16f0-4aa7-b166-a71039b5e141",
+      "data_chegada": "2026-09-30",
+      "awb": "26175181",
+      "telefone_remetente": "11994399096",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "Cliente retira sexta feira 02/10/2026",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-09-30",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-09-30 12:34:21",
+      "atualizado_em": "2026-09-30 12:34:21",
+      "historico": [
+        {
+          "data_hora": "2026-09-30 12:34:21",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-09-30 12:34:19"
+  "ultima_atualizacao": "2026-09-30 12:34:21"
 }
