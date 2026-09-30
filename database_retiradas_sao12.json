@@ -1480,13 +1480,13 @@
       "email_destinatario": "",
       "email_base_origem": "",
       "responsavel": "RENATA",
-      "observacao": "Cliente retira sexta feira 02/10/2026",
-      "status": "CLIENTE AVISADO",
+      "observacao": "aguardando",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-09-30",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-09-30 12:34:21",
-      "atualizado_em": "2026-09-30 12:39:26",
+      "atualizado_em": "2026-09-30 12:40:07",
       "historico": [
         {
           "data_hora": "2026-09-30 12:34:21",
@@ -1497,6 +1497,11 @@
           "data_hora": "2026-09-30 12:39:26",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
+        },
+        {
+          "data_hora": "2026-09-30 12:40:07",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: CLIENTE AVISADO → AGUARDANDO RETORNO DO CLIENTE; Observação anterior: Cliente retira sexta feira 02/10/2026 | Nova: aguardando"
         }
       ]
     },
@@ -1561,5 +1566,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-09-30 12:40:05"
+  "ultima_atualizacao": "2026-09-30 12:40:07"
 }
