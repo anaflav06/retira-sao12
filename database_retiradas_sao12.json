@@ -1479,14 +1479,14 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "RENATA",
-      "observacao": "aguardando",
-      "status": "AGUARDANDO RETORNO DO CLIENTE",
-      "data_ultimo_status": "2026-09-30",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "nan",
+      "status": "RETIRADO",
+      "data_ultimo_status": "2026-10-01",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-10-01",
       "criado_em": "2026-09-30 12:34:21",
-      "atualizado_em": "2026-09-30 12:40:07",
+      "atualizado_em": "2026-10-01 18:31:27",
       "historico": [
         {
           "data_hora": "2026-09-30 12:34:21",
@@ -1502,6 +1502,11 @@
           "data_hora": "2026-09-30 12:40:07",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: CLIENTE AVISADO → AGUARDANDO RETORNO DO CLIENTE; Observação anterior: Cliente retira sexta feira 02/10/2026 | Nova: aguardando"
+        },
+        {
+          "data_hora": "2026-10-01 18:31:27",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: AGUARDANDO RETORNO DO CLIENTE → RETIRADO"
         }
       ]
     },
@@ -1626,5 +1631,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-01 18:31:26"
+  "ultima_atualizacao": "2026-10-01 18:31:27"
 }
