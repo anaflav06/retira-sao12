@@ -1599,7 +1599,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO; Responsável: - → RENATA"
         }
       ]
+    },
+    {
+      "id": "f990b703-f098-4877-8278-b92473a12b22",
+      "data_chegada": "2026-10-01",
+      "awb": "02890340",
+      "telefone_remetente": "1198215-8201",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "",
+      "observacao": "Aguardando",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-01",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-01 12:11:35",
+      "atualizado_em": "2026-10-01 12:11:35",
+      "historico": [
+        {
+          "data_hora": "2026-10-01 12:11:35",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-01 12:11:34"
+  "ultima_atualizacao": "2026-10-01 12:11:35"
 }
