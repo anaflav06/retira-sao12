@@ -1624,19 +1624,24 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "",
+      "responsavel": "RENATA",
       "observacao": "Aguardando",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-10-01",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "data_ultimo_status": "2026-10-02",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-10-01 12:11:35",
-      "atualizado_em": "2026-10-01 12:11:35",
+      "atualizado_em": "2026-10-02 12:19:18",
       "historico": [
         {
           "data_hora": "2026-10-01 12:11:35",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-10-02 12:19:18",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE; Responsável: - → RENATA"
         }
       ]
     },
@@ -1649,22 +1654,27 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "",
+      "responsavel": "RENATA",
       "observacao": "Aguardando",
-      "status": "NOVO / SEM CONTATO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-10-02",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-10-02 12:18:59",
-      "atualizado_em": "2026-10-02 12:18:59",
+      "atualizado_em": "2026-10-02 12:19:18",
       "historico": [
         {
           "data_hora": "2026-10-02 12:18:59",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-10-02 12:19:18",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE; Responsável: - → RENATA"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-02 12:19:16"
+  "ultima_atualizacao": "2026-10-02 12:19:18"
 }
