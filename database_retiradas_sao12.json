@@ -1639,7 +1639,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "3cb799ad-2d44-4780-94bb-6d48e6dbbdb7",
+      "data_chegada": "2026-10-02",
+      "awb": "43438371",
+      "telefone_remetente": "1199401-3734",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "",
+      "observacao": "Aguardando",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-02",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-02 12:18:59",
+      "atualizado_em": "2026-10-02 12:18:59",
+      "historico": [
+        {
+          "data_hora": "2026-10-02 12:18:59",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-02 12:18:58"
+  "ultima_atualizacao": "2026-10-02 12:18:59"
 }
