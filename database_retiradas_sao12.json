@@ -1674,7 +1674,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE; Responsável: - → RENATA"
         }
       ]
+    },
+    {
+      "id": "86e1148f-af26-4875-a9ea-a13ff5be25e4",
+      "data_chegada": "2026-10-02",
+      "awb": "54537361",
+      "telefone_remetente": "1191133-0777",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "Retira hoje 02/10/2026",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-02",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-02 12:46:02",
+      "atualizado_em": "2026-10-02 12:46:02",
+      "historico": [
+        {
+          "data_hora": "2026-10-02 12:46:02",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-02 12:46:00"
+  "ultima_atualizacao": "2026-10-02 12:46:02"
 }
