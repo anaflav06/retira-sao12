@@ -1659,14 +1659,14 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "RENATA",
+      "responsavel": "PAULO HENRIQUE",
       "observacao": "Aguardando",
-      "status": "AGUARDANDO RETORNO DO CLIENTE",
-      "data_ultimo_status": "2026-10-02",
+      "status": "FINALIZADO",
+      "data_ultimo_status": "2026-10-05",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-10-05",
       "criado_em": "2026-10-02 12:18:59",
-      "atualizado_em": "2026-10-02 12:19:18",
+      "atualizado_em": "2026-10-05 18:49:43",
       "historico": [
         {
           "data_hora": "2026-10-02 12:18:59",
@@ -1677,6 +1677,11 @@
           "data_hora": "2026-10-02 12:19:18",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE; Responsável: - → RENATA"
+        },
+        {
+          "data_hora": "2026-10-05 18:49:43",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: AGUARDANDO RETORNO DO CLIENTE → FINALIZADO"
         }
       ]
     },
@@ -1771,5 +1776,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-05 18:49:42"
+  "ultima_atualizacao": "2026-10-05 18:49:43"
 }
