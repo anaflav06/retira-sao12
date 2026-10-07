@@ -1851,20 +1851,25 @@
       "email_base_origem": "",
       "responsavel": "RENATA",
       "observacao": "Aguardando",
-      "status": "NOVO / SEM CONTATO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-10-07",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-10-07 12:15:55",
-      "atualizado_em": "2026-10-07 12:15:55",
+      "atualizado_em": "2026-10-07 12:16:07",
       "historico": [
         {
           "data_hora": "2026-10-07 12:15:55",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-10-07 12:16:07",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-07 12:16:06"
+  "ultima_atualizacao": "2026-10-07 12:16:07"
 }
