@@ -1839,7 +1839,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
+    },
+    {
+      "id": "de675ffd-1b53-48ef-816d-f9ececde5e6d",
+      "data_chegada": "2026-10-07",
+      "awb": "86550671",
+      "telefone_remetente": "1199685-6417",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "Aguardando",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-07",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-07 12:15:55",
+      "atualizado_em": "2026-10-07 12:15:55",
+      "historico": [
+        {
+          "data_hora": "2026-10-07 12:15:55",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-07 12:15:54"
+  "ultima_atualizacao": "2026-10-07 12:15:55"
 }
