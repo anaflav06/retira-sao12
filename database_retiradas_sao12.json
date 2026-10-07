@@ -1809,7 +1809,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
+    },
+    {
+      "id": "32f2e636-b179-4d30-bad3-685b8081c006",
+      "data_chegada": "2026-10-07",
+      "awb": "59391113",
+      "telefone_remetente": "+55 11 98689-4703",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "Aguardando",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-07",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-07 12:14:11",
+      "atualizado_em": "2026-10-07 12:14:11",
+      "historico": [
+        {
+          "data_hora": "2026-10-07 12:14:11",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-07 12:14:09"
+  "ultima_atualizacao": "2026-10-07 12:14:11"
 }
