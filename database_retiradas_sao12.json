@@ -1879,14 +1879,14 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "RENATA",
+      "responsavel": "PAULO HENRIQUE",
       "observacao": "Cliente retira hj",
       "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-10-07",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-10-07 12:16:53",
-      "atualizado_em": "2026-10-07 12:17:03",
+      "atualizado_em": "2026-10-07 18:26:44",
       "historico": [
         {
           "data_hora": "2026-10-07 12:16:53",
@@ -1897,9 +1897,14 @@
           "data_hora": "2026-10-07 12:17:03",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
+        },
+        {
+          "data_hora": "2026-10-07 18:26:44",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Responsável: RENATA → PAULO HENRIQUE"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-07 18:26:44"
+  "ultima_atualizacao": "2026-10-07 18:26:54"
 }
