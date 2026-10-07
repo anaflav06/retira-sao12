@@ -1881,12 +1881,12 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "Cliente retira hj",
-      "status": "CLIENTE AVISADO",
+      "status": "RETIRADO",
       "data_ultimo_status": "2026-10-07",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-10-07",
       "criado_em": "2026-10-07 12:16:53",
-      "atualizado_em": "2026-10-07 18:26:44",
+      "atualizado_em": "2026-10-07 18:27:02",
       "historico": [
         {
           "data_hora": "2026-10-07 12:16:53",
@@ -1902,9 +1902,14 @@
           "data_hora": "2026-10-07 18:26:44",
           "acao": "Alteração salva na tabela",
           "detalhes": "Responsável: RENATA → PAULO HENRIQUE"
+        },
+        {
+          "data_hora": "2026-10-07 18:27:02",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: CLIENTE AVISADO → RETIRADO"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-07 18:27:01"
+  "ultima_atualizacao": "2026-10-07 18:27:02"
 }
