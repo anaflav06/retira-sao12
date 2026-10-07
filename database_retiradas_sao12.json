@@ -1869,7 +1869,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
+    },
+    {
+      "id": "4f2c0afe-3f29-4814-a3cd-57dc75e58b91",
+      "data_chegada": "2026-10-07",
+      "awb": "59469491",
+      "telefone_remetente": "918227-7574",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "Cliente retira hj",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-07",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-07 12:16:53",
+      "atualizado_em": "2026-10-07 12:16:53",
+      "historico": [
+        {
+          "data_hora": "2026-10-07 12:16:53",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-07 12:16:51"
+  "ultima_atualizacao": "2026-10-07 12:16:53"
 }
