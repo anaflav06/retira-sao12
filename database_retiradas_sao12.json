@@ -1821,12 +1821,12 @@
       "email_base_origem": "",
       "responsavel": "RENATA",
       "observacao": "Aguardando",
-      "status": "AGUARDANDO RETORNO DO CLIENTE",
-      "data_ultimo_status": "2026-10-07",
+      "status": "RETIRADO",
+      "data_ultimo_status": "2026-10-08",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-10-08",
       "criado_em": "2026-10-07 12:14:11",
-      "atualizado_em": "2026-10-07 12:14:25",
+      "atualizado_em": "2026-10-08 12:24:33",
       "historico": [
         {
           "data_hora": "2026-10-07 12:14:11",
@@ -1837,6 +1837,11 @@
           "data_hora": "2026-10-07 12:14:25",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
+        },
+        {
+          "data_hora": "2026-10-08 12:24:33",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: AGUARDANDO RETORNO DO CLIENTE → RETIRADO"
         }
       ]
     },
@@ -1941,5 +1946,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-08 12:24:32"
+  "ultima_atualizacao": "2026-10-08 12:24:33"
 }
