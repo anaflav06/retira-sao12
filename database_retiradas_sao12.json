@@ -1921,20 +1921,25 @@
       "email_base_origem": "",
       "responsavel": "CLEBER",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-10-08",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-10-08 12:15:31",
-      "atualizado_em": "2026-10-08 12:15:31",
+      "atualizado_em": "2026-10-08 12:24:08",
       "historico": [
         {
           "data_hora": "2026-10-08 12:15:31",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-10-08 12:24:08",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-08 12:24:07"
+  "ultima_atualizacao": "2026-10-08 12:24:08"
 }
