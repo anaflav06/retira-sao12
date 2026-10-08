@@ -1165,13 +1165,13 @@
       "email_destinatario": "",
       "email_base_origem": "",
       "responsavel": "CLEBER",
-      "observacao": "\"Retirarei semana que vem\"",
-      "status": "CLIENTE AVISADO",
-      "data_ultimo_status": "2026-09-18",
+      "observacao": "nan",
+      "status": "RETIRADO",
+      "data_ultimo_status": "2026-10-08",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-10-08",
       "criado_em": "2026-09-18 12:44:43",
-      "atualizado_em": "2026-09-25 13:03:34",
+      "atualizado_em": "2026-10-08 12:27:45",
       "historico": [
         {
           "data_hora": "2026-09-18 12:44:43",
@@ -1192,6 +1192,11 @@
           "data_hora": "2026-09-25 13:03:34",
           "acao": "Alteração salva na tabela",
           "detalhes": "Observação anterior: nan | Nova: \"Retirarei semana que vem\""
+        },
+        {
+          "data_hora": "2026-10-08 12:27:45",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: CLIENTE AVISADO → RETIRADO"
         }
       ]
     },
@@ -1956,5 +1961,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-08 12:27:43"
+  "ultima_atualizacao": "2026-10-08 12:27:45"
 }
