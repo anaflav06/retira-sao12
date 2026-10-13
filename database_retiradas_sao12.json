@@ -2014,7 +2014,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "78cf407a-0d79-46d4-96c2-56333496e8dc",
+      "data_chegada": "2026-10-13",
+      "awb": "77456083",
+      "telefone_remetente": "04773431780",
+      "telefone_unidade_origem": "4730374550",
+      "email_remetente": "xml@modalmkt.com.br",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-13",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-13 12:02:34",
+      "atualizado_em": "2026-10-13 12:02:34",
+      "historico": [
+        {
+          "data_hora": "2026-10-13 12:02:34",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-13 12:02:32"
+  "ultima_atualizacao": "2026-10-13 12:02:34"
 }
