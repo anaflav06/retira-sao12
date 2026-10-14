@@ -2049,7 +2049,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
+    },
+    {
+      "id": "24d47dd2-1d97-4c3e-b275-420b72c68c2d",
+      "data_chegada": "2026-10-14",
+      "awb": "01660456",
+      "telefone_remetente": "1195896-1265",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "RENATA",
+      "observacao": "Aguardando",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-14",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-14 13:40:36",
+      "atualizado_em": "2026-10-14 13:40:36",
+      "historico": [
+        {
+          "data_hora": "2026-10-14 13:40:36",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-14 13:40:34"
+  "ultima_atualizacao": "2026-10-14 13:40:36"
 }
