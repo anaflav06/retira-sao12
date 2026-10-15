@@ -2091,12 +2091,12 @@
       "email_base_origem": "gla.gildasio@azulcargo.com.br",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "VIRÁ RETIRAR DIA 15/10",
-      "status": "RETIRADA PROGRAMADA",
+      "status": "FINALIZADO",
       "data_ultimo_status": "2026-10-15",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-10-15",
       "criado_em": "2026-10-15 19:05:31",
-      "atualizado_em": "2026-10-15 19:05:59",
+      "atualizado_em": "2026-10-15 19:36:02",
       "historico": [
         {
           "data_hora": "2026-10-15 19:05:31",
@@ -2107,9 +2107,14 @@
           "data_hora": "2026-10-15 19:05:59",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → RETIRADA PROGRAMADA; Responsável: - → PAULO HENRIQUE; Observação anterior: - | Nova: VIRÁ RETIRAR DIA 15/10"
+        },
+        {
+          "data_hora": "2026-10-15 19:36:02",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: RETIRADA PROGRAMADA → FINALIZADO"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-15 19:36:00"
+  "ultima_atualizacao": "2026-10-15 19:36:02"
 }
