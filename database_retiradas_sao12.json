@@ -2079,7 +2079,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
+    },
+    {
+      "id": "d9fe596d-c96b-4f40-b7ec-d87e1d33d602",
+      "data_chegada": "2026-10-15",
+      "awb": "50062950",
+      "telefone_remetente": "33999192050",
+      "telefone_unidade_origem": "33999192050",
+      "email_remetente": "gla.gildasio@azulcargo.com.br",
+      "email_destinatario": "",
+      "email_base_origem": "gla.gildasio@azulcargo.com.br",
+      "responsavel": "",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-15",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-15 19:05:31",
+      "atualizado_em": "2026-10-15 19:05:31",
+      "historico": [
+        {
+          "data_hora": "2026-10-15 19:05:31",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-15 19:05:30"
+  "ultima_atualizacao": "2026-10-15 19:05:31"
 }
