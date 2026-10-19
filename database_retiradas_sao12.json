@@ -2191,20 +2191,25 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-10-19",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-10-19 13:43:50",
-      "atualizado_em": "2026-10-19 13:43:50",
+      "atualizado_em": "2026-10-19 13:44:08",
       "historico": [
         {
           "data_hora": "2026-10-19 13:43:50",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-10-19 13:44:08",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-19 13:44:05"
+  "ultima_atualizacao": "2026-10-19 13:44:08"
 }
