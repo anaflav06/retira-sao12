@@ -2154,7 +2154,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
+    },
+    {
+      "id": "28e42639-a516-47ef-b3e2-1379765a5733",
+      "data_chegada": "2026-10-19",
+      "awb": "03110473",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "vix01.denise@azulcargo.com.br",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-19",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-19 13:43:02",
+      "atualizado_em": "2026-10-19 13:43:02",
+      "historico": [
+        {
+          "data_hora": "2026-10-19 13:43:02",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-19 13:43:00"
+  "ultima_atualizacao": "2026-10-19 13:43:02"
 }
