@@ -2136,20 +2136,25 @@
       "email_base_origem": "NVTF1@AZULCARGO.COM.BR",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-10-19",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-10-19 13:41:55",
-      "atualizado_em": "2026-10-19 13:41:55",
+      "atualizado_em": "2026-10-19 13:42:10",
       "historico": [
         {
           "data_hora": "2026-10-19 13:41:55",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-10-19 13:42:10",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-19 13:42:08"
+  "ultima_atualizacao": "2026-10-19 13:42:10"
 }
