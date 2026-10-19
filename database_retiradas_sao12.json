@@ -2124,7 +2124,32 @@
           "detalhes": "Status: RETIRADA PROGRAMADA → FINALIZADO"
         }
       ]
+    },
+    {
+      "id": "624d6a8a-b062-4533-8708-8510e9e378fe",
+      "data_chegada": "2026-10-19",
+      "awb": "55482685",
+      "telefone_remetente": "04773431780",
+      "telefone_unidade_origem": "4730374550",
+      "email_remetente": "xml@modalmkt.com.br",
+      "email_destinatario": "",
+      "email_base_origem": "NVTF1@AZULCARGO.COM.BR",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-19",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-19 13:41:55",
+      "atualizado_em": "2026-10-19 13:41:55",
+      "historico": [
+        {
+          "data_hora": "2026-10-19 13:41:55",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-19 13:41:54"
+  "ultima_atualizacao": "2026-10-19 13:41:55"
 }
