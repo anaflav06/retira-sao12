@@ -2179,7 +2179,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "cd486f25-4b7a-4c9e-9ab8-53e10491a8f2",
+      "data_chegada": "2026-10-19",
+      "awb": "01781420",
+      "telefone_remetente": "1128844878",
+      "telefone_unidade_origem": "",
+      "email_remetente": "ediazul@onlineapp.com.br",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-19",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-19 13:43:50",
+      "atualizado_em": "2026-10-19 13:43:50",
+      "historico": [
+        {
+          "data_hora": "2026-10-19 13:43:50",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-19 13:43:49"
+  "ultima_atualizacao": "2026-10-19 13:43:50"
 }
