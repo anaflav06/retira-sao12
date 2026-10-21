@@ -2209,7 +2209,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
+    },
+    {
+      "id": "9bba45a1-7076-4195-a500-8bc6c77dc92a",
+      "data_chegada": "2026-10-21",
+      "awb": "70598743",
+      "telefone_remetente": "61 9327-3961",
+      "telefone_unidade_origem": "6133649451",
+      "email_remetente": "BSBF2@AZULCARGO.COM.BR",
+      "email_destinatario": "",
+      "email_base_origem": "BSBF2@AZULCARGO.COM.BR",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-21",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-21 12:39:35",
+      "atualizado_em": "2026-10-21 12:39:35",
+      "historico": [
+        {
+          "data_hora": "2026-10-21 12:39:35",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-21 12:39:33"
+  "ultima_atualizacao": "2026-10-21 12:39:35"
 }
