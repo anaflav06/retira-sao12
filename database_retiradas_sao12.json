@@ -2251,17 +2251,22 @@
       "email_base_origem": "NVTF1@AZULCARGO.COM.BR",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "RETIRADO",
       "data_ultimo_status": "2026-10-21",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-10-21",
       "criado_em": "2026-10-21 12:41:32",
-      "atualizado_em": "2026-10-21 12:41:32",
+      "atualizado_em": "2026-10-21 14:22:58",
       "historico": [
         {
           "data_hora": "2026-10-21 12:41:32",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-10-21 14:22:58",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: NOVO / SEM CONTATO → RETIRADO"
         }
       ]
     },
@@ -2291,5 +2296,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-21 14:22:56"
+  "ultima_atualizacao": "2026-10-21 14:22:58"
 }
