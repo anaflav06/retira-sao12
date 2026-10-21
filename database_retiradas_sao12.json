@@ -2234,7 +2234,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "f1da1e1a-07af-4df2-96ef-7e95e5d89b13",
+      "data_chegada": "2026-10-21",
+      "awb": "38815044",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "4730374550",
+      "email_remetente": "xml@modalmkt.com.br",
+      "email_destinatario": "",
+      "email_base_origem": "NVTF1@AZULCARGO.COM.BR",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-21",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-21 12:41:32",
+      "atualizado_em": "2026-10-21 12:41:32",
+      "historico": [
+        {
+          "data_hora": "2026-10-21 12:41:32",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-21 12:41:30"
+  "ultima_atualizacao": "2026-10-21 12:41:32"
 }
