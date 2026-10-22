@@ -2246,17 +2246,22 @@
       "email_base_origem": "BSBF2@AZULCARGO.COM.BR",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-10-21",
+      "status": "RETIRADO",
+      "data_ultimo_status": "2026-10-22",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-10-22",
       "criado_em": "2026-10-21 12:39:35",
-      "atualizado_em": "2026-10-21 12:39:35",
+      "atualizado_em": "2026-10-22 14:25:02",
       "historico": [
         {
           "data_hora": "2026-10-21 12:39:35",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-10-22 14:25:02",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: NOVO / SEM CONTATO → RETIRADO"
         }
       ]
     },
@@ -2391,5 +2396,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-22 14:25:01"
+  "ultima_atualizacao": "2026-10-22 14:25:02"
 }
