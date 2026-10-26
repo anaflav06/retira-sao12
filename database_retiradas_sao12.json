@@ -2186,17 +2186,22 @@
       "email_base_origem": "vix01.denise@azulcargo.com.br",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-10-19",
+      "status": "RETIRADO",
+      "data_ultimo_status": "2026-10-26",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-10-26",
       "criado_em": "2026-10-19 13:43:02",
-      "atualizado_em": "2026-10-19 13:43:02",
+      "atualizado_em": "2026-10-26 17:28:06",
       "historico": [
         {
           "data_hora": "2026-10-19 13:43:02",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-10-26 17:28:06",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: NOVO / SEM CONTATO → RETIRADO"
         }
       ]
     },
@@ -2556,5 +2561,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-26 17:28:04"
+  "ultima_atualizacao": "2026-10-26 17:28:06"
 }
