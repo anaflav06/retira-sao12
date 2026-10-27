@@ -2526,17 +2526,22 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-10-26",
+      "status": "RETIRADO",
+      "data_ultimo_status": "2026-10-27",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-10-27",
       "criado_em": "2026-10-26 12:46:39",
-      "atualizado_em": "2026-10-26 12:46:39",
+      "atualizado_em": "2026-10-27 17:45:46",
       "historico": [
         {
           "data_hora": "2026-10-26 12:46:39",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-10-27 17:45:46",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: NOVO / SEM CONTATO → RETIRADO"
         }
       ]
     },
@@ -2571,5 +2576,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-10-27 17:45:44"
+  "ultima_atualizacao": "2026-10-27 17:45:46"
 }
