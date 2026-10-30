@@ -2709,7 +2709,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "00bd9b98-cee8-4c7c-8ca7-2b160313d72a",
+      "data_chegada": "2026-10-30",
+      "awb": "35214966",
+      "telefone_remetente": "1140038399",
+      "telefone_unidade_origem": "1140038399",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-10-30",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-10-30 13:51:44",
+      "atualizado_em": "2026-10-30 13:51:44",
+      "historico": [
+        {
+          "data_hora": "2026-10-30 13:51:44",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-10-30 13:51:42"
+  "ultima_atualizacao": "2026-10-30 13:51:44"
 }
