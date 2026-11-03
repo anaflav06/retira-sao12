@@ -3051,17 +3051,22 @@
       "email_base_origem": "STMF2@AZULCARGO.COM.BR",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-11-03",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-03 14:08:41",
-      "atualizado_em": "2026-11-03 14:08:41",
+      "atualizado_em": "2026-11-03 14:11:26",
       "historico": [
         {
           "data_hora": "2026-11-03 14:08:41",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-03 14:11:26",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
     },
@@ -3076,17 +3081,22 @@
       "email_base_origem": "LDBF2@AZULCARGO.COM.BR",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-11-03",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-03 14:09:38",
-      "atualizado_em": "2026-11-03 14:09:38",
+      "atualizado_em": "2026-11-03 14:11:26",
       "historico": [
         {
           "data_hora": "2026-11-03 14:09:38",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-03 14:11:26",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
     },
@@ -3101,20 +3111,25 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "AGUARDANDO RETORNO DO CLIENTE",
       "data_ultimo_status": "2026-11-03",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-03 14:10:52",
-      "atualizado_em": "2026-11-03 14:10:52",
+      "atualizado_em": "2026-11-03 14:11:26",
       "historico": [
         {
           "data_hora": "2026-11-03 14:10:52",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-03 14:11:26",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-03 14:11:24"
+  "ultima_atualizacao": "2026-11-03 14:11:26"
 }
