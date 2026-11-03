@@ -3116,12 +3116,12 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "AGUARDANDO RETORNO DO CLIENTE",
+      "status": "RETIRADO",
       "data_ultimo_status": "2026-11-03",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-11-03",
       "criado_em": "2026-11-03 14:10:52",
-      "atualizado_em": "2026-11-03 14:11:26",
+      "atualizado_em": "2026-11-03 18:48:36",
       "historico": [
         {
           "data_hora": "2026-11-03 14:10:52",
@@ -3132,9 +3132,14 @@
           "data_hora": "2026-11-03 14:11:26",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → AGUARDANDO RETORNO DO CLIENTE"
+        },
+        {
+          "data_hora": "2026-11-03 18:48:36",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: AGUARDANDO RETORNO DO CLIENTE → RETIRADO"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-03 18:48:34"
+  "ultima_atualizacao": "2026-11-03 18:48:36"
 }
