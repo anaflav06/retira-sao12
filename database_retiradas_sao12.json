@@ -3064,7 +3064,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "033a393d-e627-4c09-81d9-0488db86ec5f",
+      "data_chegada": "2026-11-03",
+      "awb": "83937630",
+      "telefone_remetente": "4335718661",
+      "telefone_unidade_origem": "04330664688",
+      "email_remetente": "envios@sportbay.com.br",
+      "email_destinatario": "",
+      "email_base_origem": "LDBF2@AZULCARGO.COM.BR",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-11-03",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-11-03 14:09:38",
+      "atualizado_em": "2026-11-03 14:09:38",
+      "historico": [
+        {
+          "data_hora": "2026-11-03 14:09:38",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-11-03 14:09:36"
+  "ultima_atualizacao": "2026-11-03 14:09:38"
 }
