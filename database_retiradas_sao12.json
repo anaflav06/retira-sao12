@@ -3089,7 +3089,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "240fb751-b7fb-4789-8fbe-d9ed05e8e57e",
+      "data_chegada": "2026-11-03",
+      "awb": "52373893",
+      "telefone_remetente": "37999218509",
+      "telefone_unidade_origem": "37988199294",
+      "email_remetente": "DIQF1@AZULCARGO.COM.BR",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-11-03",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-11-03 14:10:52",
+      "atualizado_em": "2026-11-03 14:10:52",
+      "historico": [
+        {
+          "data_hora": "2026-11-03 14:10:52",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-11-03 14:10:50"
+  "ultima_atualizacao": "2026-11-03 14:10:52"
 }
