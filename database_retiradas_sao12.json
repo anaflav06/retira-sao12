@@ -3039,7 +3039,32 @@
           "detalhes": "Status: AGUARDANDO RETORNO DO CLIENTE → RETIRADO"
         }
       ]
+    },
+    {
+      "id": "ffacf41a-8ff1-447b-812d-bdc716c7a5d5",
+      "data_chegada": "2026-11-03",
+      "awb": "50845760",
+      "telefone_remetente": "93991585996",
+      "telefone_unidade_origem": "STMF2@AZULCARGO.COM.BR",
+      "email_remetente": "STMF2@AZULCARGO.COM.BR",
+      "email_destinatario": "",
+      "email_base_origem": "STMF2@AZULCARGO.COM.BR",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-11-03",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-11-03 14:08:41",
+      "atualizado_em": "2026-11-03 14:08:41",
+      "historico": [
+        {
+          "data_hora": "2026-11-03 14:08:41",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-11-03 14:08:39"
+  "ultima_atualizacao": "2026-11-03 14:08:41"
 }
