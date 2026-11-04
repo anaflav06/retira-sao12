@@ -3164,7 +3164,32 @@
           "detalhes": "Status: AGUARDANDO RETORNO DO CLIENTE → RETIRADO"
         }
       ]
+    },
+    {
+      "id": "9daab0d8-68b7-4bc8-b9e2-daef31a0af16",
+      "data_chegada": "2026-11-04",
+      "awb": "24415344",
+      "telefone_remetente": "1140038399",
+      "telefone_unidade_origem": "1140038399",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-11-04",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-11-04 15:20:15",
+      "atualizado_em": "2026-11-04 15:20:15",
+      "historico": [
+        {
+          "data_hora": "2026-11-04 15:20:15",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-11-04 15:20:13"
+  "ultima_atualizacao": "2026-11-04 15:20:15"
 }
