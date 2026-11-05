@@ -3211,20 +3211,25 @@
       "email_base_origem": "",
       "responsavel": "",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-11-05",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-05 14:46:24",
-      "atualizado_em": "2026-11-05 14:46:24",
+      "atualizado_em": "2026-11-05 14:46:47",
       "historico": [
         {
           "data_hora": "2026-11-05 14:46:24",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-05 14:46:47",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-05 14:46:46"
+  "ultima_atualizacao": "2026-11-05 14:46:47"
 }
