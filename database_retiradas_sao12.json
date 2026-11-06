@@ -3271,12 +3271,12 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "CLIENTE AVISADO",
+      "status": "RETIRADO",
       "data_ultimo_status": "2026-11-06",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-11-06",
       "criado_em": "2026-11-06 12:00:11",
-      "atualizado_em": "2026-11-06 12:08:56",
+      "atualizado_em": "2026-11-06 20:43:16",
       "historico": [
         {
           "data_hora": "2026-11-06 12:00:11",
@@ -3287,9 +3287,14 @@
           "data_hora": "2026-11-06 12:08:56",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
+        },
+        {
+          "data_hora": "2026-11-06 20:43:16",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: CLIENTE AVISADO → RETIRADO"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-06 20:43:14"
+  "ultima_atualizacao": "2026-11-06 20:43:16"
 }
