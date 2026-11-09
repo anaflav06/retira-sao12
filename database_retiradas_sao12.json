@@ -3304,22 +3304,27 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "",
+      "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-11-09",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-09 11:58:52",
-      "atualizado_em": "2026-11-09 11:58:52",
+      "atualizado_em": "2026-11-09 11:59:10",
       "historico": [
         {
           "data_hora": "2026-11-09 11:58:52",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-09 11:59:10",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO; Responsável: - → PAULO HENRIQUE"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-09 11:59:08"
+  "ultima_atualizacao": "2026-11-09 11:59:10"
 }
