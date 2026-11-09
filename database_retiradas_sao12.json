@@ -2741,12 +2741,12 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "vai retirar na terça",
-      "status": "RETIRADA PROGRAMADA",
-      "data_ultimo_status": "2026-10-30",
+      "status": "RETIRADO",
+      "data_ultimo_status": "2026-11-09",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-11-09",
       "criado_em": "2026-10-30 13:51:19",
-      "atualizado_em": "2026-10-30 13:54:11",
+      "atualizado_em": "2026-11-09 17:14:35",
       "historico": [
         {
           "data_hora": "2026-10-30 13:51:19",
@@ -2757,6 +2757,11 @@
           "data_hora": "2026-10-30 13:54:11",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → RETIRADA PROGRAMADA; Observação anterior: - | Nova: vai retirar na terça"
+        },
+        {
+          "data_hora": "2026-11-09 17:14:35",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: RETIRADA PROGRAMADA → RETIRADO"
         }
       ]
     },
@@ -3341,5 +3346,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-09 17:14:33"
+  "ultima_atualizacao": "2026-11-09 17:14:35"
 }
