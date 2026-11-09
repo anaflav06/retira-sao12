@@ -1986,17 +1986,22 @@
       "email_base_origem": "Email : QMI02@AZULCARGO.COM.BR",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-10-13",
+      "status": "CLIENTE AVISADO",
+      "data_ultimo_status": "2026-11-09",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-10-13 11:59:34",
-      "atualizado_em": "2026-10-13 11:59:34",
+      "atualizado_em": "2026-11-09 17:25:05",
       "historico": [
         {
           "data_hora": "2026-10-13 11:59:34",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-09 17:25:05",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     },
@@ -3366,5 +3371,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-09 17:25:03"
+  "ultima_atualizacao": "2026-11-09 17:25:05"
 }
