@@ -3294,7 +3294,32 @@
           "detalhes": "Status: CLIENTE AVISADO → RETIRADO"
         }
       ]
+    },
+    {
+      "id": "8e9f1056-a309-474b-8cb1-8eb20478a408",
+      "data_chegada": "2026-11-09",
+      "awb": "01900019",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-11-09",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-11-09 11:58:52",
+      "atualizado_em": "2026-11-09 11:58:52",
+      "historico": [
+        {
+          "data_hora": "2026-11-09 11:58:52",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-11-09 11:58:50"
+  "ultima_atualizacao": "2026-11-09 11:58:52"
 }
