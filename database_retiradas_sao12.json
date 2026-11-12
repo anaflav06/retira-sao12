@@ -3449,7 +3449,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "16fa9d40-24f0-4ef6-b1ff-13555295678e",
+      "data_chegada": "2026-11-12",
+      "awb": "55500126",
+      "telefone_remetente": "33999192050",
+      "telefone_unidade_origem": "33999192050",
+      "email_remetente": "gla.gildasio@azulcargo.com.br",
+      "email_destinatario": "",
+      "email_base_origem": "gla.gildasio@azulcargo.com.br",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-11-12",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-11-12 13:36:47",
+      "atualizado_em": "2026-11-12 13:36:47",
+      "historico": [
+        {
+          "data_hora": "2026-11-12 13:36:47",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-11-12 13:36:46"
+  "ultima_atualizacao": "2026-11-12 13:36:47"
 }
