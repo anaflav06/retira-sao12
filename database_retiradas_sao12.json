@@ -3424,7 +3424,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "56e4340a-2b93-46ec-8640-6f2a4fe70fed",
+      "data_chegada": "2026-11-12",
+      "awb": "15170772",
+      "telefone_remetente": "2733156411",
+      "telefone_unidade_origem": "2733156411",
+      "email_remetente": "JHONATASS@HERBALIFE.COM",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-11-12",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-11-12 13:35:47",
+      "atualizado_em": "2026-11-12 13:35:47",
+      "historico": [
+        {
+          "data_hora": "2026-11-12 13:35:47",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-11-12 13:35:45"
+  "ultima_atualizacao": "2026-11-12 13:35:47"
 }
