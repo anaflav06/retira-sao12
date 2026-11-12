@@ -3461,20 +3461,25 @@
       "email_base_origem": "gla.gildasio@azulcargo.com.br",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "RETIRADO",
       "data_ultimo_status": "2026-11-12",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-11-12",
       "criado_em": "2026-11-12 13:36:47",
-      "atualizado_em": "2026-11-12 13:36:47",
+      "atualizado_em": "2026-11-12 14:24:59",
       "historico": [
         {
           "data_hora": "2026-11-12 13:36:47",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-12 14:24:59",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: NOVO / SEM CONTATO → RETIRADO"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-12 14:24:57"
+  "ultima_atualizacao": "2026-11-12 14:24:59"
 }
