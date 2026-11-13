@@ -3479,7 +3479,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → RETIRADO"
         }
       ]
+    },
+    {
+      "id": "1809d2f3-ec9d-4d9f-9056-5b0f6eb32e0a",
+      "data_chegada": "2026-11-13",
+      "awb": "15452301",
+      "telefone_remetente": "1128844878",
+      "telefone_unidade_origem": "1140038399",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-11-13",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-11-13 11:58:18",
+      "atualizado_em": "2026-11-13 11:58:18",
+      "historico": [
+        {
+          "data_hora": "2026-11-13 11:58:18",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-11-13 11:58:16"
+  "ultima_atualizacao": "2026-11-13 11:58:18"
 }
