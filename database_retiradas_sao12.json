@@ -2901,12 +2901,12 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "CLIENTE AVISADO",
-      "data_ultimo_status": "2026-11-09",
+      "status": "RETIRADO",
+      "data_ultimo_status": "2026-11-13",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-11-13",
       "criado_em": "2026-10-30 13:53:31",
-      "atualizado_em": "2026-11-09 17:18:03",
+      "atualizado_em": "2026-11-13 17:04:30",
       "historico": [
         {
           "data_hora": "2026-10-30 13:53:31",
@@ -2922,6 +2922,11 @@
           "data_hora": "2026-11-09 17:18:03",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: AGUARDANDO RETORNO DO CLIENTE → CLIENTE AVISADO"
+        },
+        {
+          "data_hora": "2026-11-13 17:04:30",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: CLIENTE AVISADO → RETIRADO"
         }
       ]
     },
@@ -3511,5 +3516,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-13 17:04:27"
+  "ultima_atualizacao": "2026-11-13 17:04:30"
 }
