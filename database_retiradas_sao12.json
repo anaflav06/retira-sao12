@@ -3391,17 +3391,22 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-11-11",
+      "status": "CLIENTE AVISADO",
+      "data_ultimo_status": "2026-11-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-11 12:18:56",
-      "atualizado_em": "2026-11-11 12:18:56",
+      "atualizado_em": "2026-11-18 12:15:46",
       "historico": [
         {
           "data_hora": "2026-11-11 12:18:56",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-18 12:15:46",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     },
@@ -3446,17 +3451,22 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-11-12",
+      "status": "CLIENTE AVISADO",
+      "data_ultimo_status": "2026-11-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-12 13:35:47",
-      "atualizado_em": "2026-11-12 13:35:47",
+      "atualizado_em": "2026-11-18 12:15:46",
       "historico": [
         {
           "data_hora": "2026-11-12 13:35:47",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-18 12:15:46",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     },
@@ -3501,17 +3511,22 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-11-13",
+      "status": "CLIENTE AVISADO",
+      "data_ultimo_status": "2026-11-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-13 11:58:18",
-      "atualizado_em": "2026-11-13 11:58:18",
+      "atualizado_em": "2026-11-18 12:15:46",
       "historico": [
         {
           "data_hora": "2026-11-13 11:58:18",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-18 12:15:46",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     },
@@ -3526,17 +3541,22 @@
       "email_base_origem": "NVTF1@AZULCARGO.COM.BR",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-11-16",
+      "status": "CLIENTE AVISADO",
+      "data_ultimo_status": "2026-11-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-16 12:29:43",
-      "atualizado_em": "2026-11-16 12:29:43",
+      "atualizado_em": "2026-11-18 12:15:46",
       "historico": [
         {
           "data_hora": "2026-11-16 12:29:43",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-18 12:15:46",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     },
@@ -3551,17 +3571,22 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
-      "data_ultimo_status": "2026-11-16",
+      "status": "CLIENTE AVISADO",
+      "data_ultimo_status": "2026-11-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-16 12:30:44",
-      "atualizado_em": "2026-11-16 12:30:44",
+      "atualizado_em": "2026-11-18 12:15:46",
       "historico": [
         {
           "data_hora": "2026-11-16 12:30:44",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-18 12:15:46",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
         }
       ]
     },
@@ -3574,19 +3599,24 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "",
+      "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-11-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-18 12:10:54",
-      "atualizado_em": "2026-11-18 12:10:54",
+      "atualizado_em": "2026-11-18 12:15:46",
       "historico": [
         {
           "data_hora": "2026-11-18 12:10:54",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-18 12:15:46",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO; Responsável: - → PAULO HENRIQUE"
         }
       ]
     },
@@ -3599,19 +3629,24 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "",
+      "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-11-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-18 12:12:07",
-      "atualizado_em": "2026-11-18 12:12:07",
+      "atualizado_em": "2026-11-18 12:15:46",
       "historico": [
         {
           "data_hora": "2026-11-18 12:12:07",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-18 12:15:46",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO; Responsável: - → PAULO HENRIQUE"
         }
       ]
     },
@@ -3624,22 +3659,27 @@
       "email_remetente": "",
       "email_destinatario": "",
       "email_base_origem": "",
-      "responsavel": "",
+      "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "NOVO / SEM CONTATO",
+      "status": "CLIENTE AVISADO",
       "data_ultimo_status": "2026-11-18",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-18 12:13:25",
-      "atualizado_em": "2026-11-18 12:13:25",
+      "atualizado_em": "2026-11-18 12:15:46",
       "historico": [
         {
           "data_hora": "2026-11-18 12:13:25",
           "acao": "Nova carga cadastrada",
           "detalhes": ""
+        },
+        {
+          "data_hora": "2026-11-18 12:15:46",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO; Responsável: - → PAULO HENRIQUE"
         }
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-18 12:15:44"
+  "ultima_atualizacao": "2026-11-18 12:15:46"
 }
