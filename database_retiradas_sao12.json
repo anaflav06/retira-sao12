@@ -3564,7 +3564,32 @@
           "detalhes": ""
         }
       ]
+    },
+    {
+      "id": "007f4c8d-1e0d-47ba-b124-d3a637dd3b75",
+      "data_chegada": "2026-11-18",
+      "awb": "28892205",
+      "telefone_remetente": "",
+      "telefone_unidade_origem": "",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-11-18",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-11-18 12:10:54",
+      "atualizado_em": "2026-11-18 12:10:54",
+      "historico": [
+        {
+          "data_hora": "2026-11-18 12:10:54",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-11-18 12:10:53"
+  "ultima_atualizacao": "2026-11-18 12:10:54"
 }
