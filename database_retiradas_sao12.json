@@ -2466,12 +2466,12 @@
       "email_base_origem": "",
       "responsavel": "PAULO HENRIQUE",
       "observacao": "",
-      "status": "CLIENTE AVISADO",
-      "data_ultimo_status": "2026-11-09",
+      "status": "FINALIZADO",
+      "data_ultimo_status": "2026-11-23",
       "data_prevista_retirada": "",
-      "data_finalizacao": "",
+      "data_finalizacao": "2026-11-23",
       "criado_em": "2026-10-26 12:42:31",
-      "atualizado_em": "2026-11-09 17:12:22",
+      "atualizado_em": "2026-11-23 14:06:56",
       "historico": [
         {
           "data_hora": "2026-10-26 12:42:31",
@@ -2482,6 +2482,11 @@
           "data_hora": "2026-11-09 17:12:22",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
+        },
+        {
+          "data_hora": "2026-11-23 14:06:56",
+          "acao": "Carga encerrada",
+          "detalhes": "Status: CLIENTE AVISADO → FINALIZADO"
         }
       ]
     },
@@ -3741,5 +3746,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-23 14:06:54"
+  "ultima_atualizacao": "2026-11-23 14:06:56"
 }
