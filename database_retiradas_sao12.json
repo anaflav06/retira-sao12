@@ -3709,7 +3709,32 @@
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO; Responsável: - → PAULO HENRIQUE"
         }
       ]
+    },
+    {
+      "id": "e5f172d5-32cf-4e64-9cb1-1b80a51d73bc",
+      "data_chegada": "2026-11-23",
+      "awb": "61149863",
+      "telefone_remetente": "1128844878",
+      "telefone_unidade_origem": "1128844878",
+      "email_remetente": "",
+      "email_destinatario": "",
+      "email_base_origem": "",
+      "responsavel": "PAULO HENRIQUE",
+      "observacao": "",
+      "status": "NOVO / SEM CONTATO",
+      "data_ultimo_status": "2026-11-23",
+      "data_prevista_retirada": "",
+      "data_finalizacao": "",
+      "criado_em": "2026-11-23 12:09:59",
+      "atualizado_em": "2026-11-23 12:09:59",
+      "historico": [
+        {
+          "data_hora": "2026-11-23 12:09:59",
+          "acao": "Nova carga cadastrada",
+          "detalhes": ""
+        }
+      ]
     }
   ],
-  "ultima_atualizacao": "2026-11-23 12:09:57"
+  "ultima_atualizacao": "2026-11-23 12:09:59"
 }
