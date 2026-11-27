@@ -3570,13 +3570,13 @@
       "email_destinatario": "",
       "email_base_origem": "NVTF1@AZULCARGO.COM.BR",
       "responsavel": "PAULO HENRIQUE",
-      "observacao": "",
-      "status": "CLIENTE AVISADO",
-      "data_ultimo_status": "2026-11-18",
+      "observacao": "29/11",
+      "status": "RETIRADA PROGRAMADA",
+      "data_ultimo_status": "2026-11-27",
       "data_prevista_retirada": "",
       "data_finalizacao": "",
       "criado_em": "2026-11-16 12:29:43",
-      "atualizado_em": "2026-11-18 12:15:46",
+      "atualizado_em": "2026-11-27 14:26:12",
       "historico": [
         {
           "data_hora": "2026-11-16 12:29:43",
@@ -3587,6 +3587,11 @@
           "data_hora": "2026-11-18 12:15:46",
           "acao": "Alteração salva na tabela",
           "detalhes": "Status: NOVO / SEM CONTATO → CLIENTE AVISADO"
+        },
+        {
+          "data_hora": "2026-11-27 14:26:12",
+          "acao": "Alteração salva na tabela",
+          "detalhes": "Status: CLIENTE AVISADO → RETIRADA PROGRAMADA; Observação anterior: - | Nova: 29/11"
         }
       ]
     },
@@ -3756,5 +3761,5 @@
       ]
     }
   ],
-  "ultima_atualizacao": "2026-11-27 14:26:10"
+  "ultima_atualizacao": "2026-11-27 14:26:12"
 }
